@@ -14,3 +14,4 @@ Top Performers: Dried Fruit & Nuts and Jams/Preserves contribute significantly t
 Inventory Strategy: Beverages have the highest minimum reorder quantity, suggesting they move quickly or have longer lead times from suppliers.
 
 Regional Reach: The map indicates a strong presence in the Eastern and Midwestern United States, which can help target future marketing efforts.
+Here is the link for an interactive dashboard: https://app.powerbi.com/view?r=eyJrIjoiZDkxZDdiYTktMmY0ZS00MDU4LWEwMjctNTc0ZmNiYWJiOTdmIiwidCI6IjFmZmUwYTVhLTllNzYtNDcwZi04YzZiLTA0MzYyMjE3ZWFmMyJ9
